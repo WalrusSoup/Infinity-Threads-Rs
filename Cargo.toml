@@ -1,0 +1,13 @@
+[package]
+name = "infinity-threads"
+authors = ["Jayson Lindsley <jay@jaysonlindsley.dev>"]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Infinitely running closures via threads."
+homepage = "https://github.com/WalrusSoup/Infinity-Threads-Rs"
+repository = "https://github.com/WalrusSoup/Infinity-Threads-Rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
